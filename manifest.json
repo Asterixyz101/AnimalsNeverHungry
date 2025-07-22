@@ -1,0 +1,11 @@
+{
+  "Name": "Animals Go Never Hungry",
+  "Author": "Asterixyz",
+  "Version": "1.0.0",
+  "Description": "Changes GrassEatAmount to 0 so animals don't become unhappy about not being fed.",
+  "UniqueID": "Asterixyz.AnimalsNeverHungry",
+  "UpdateKeys": [],
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher"
+  }
+}

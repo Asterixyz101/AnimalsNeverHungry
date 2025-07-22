@@ -1,0 +1,53 @@
+{
+  "Format": "2.7.0",
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/FarmAnimals",
+      "Entries": {
+        "White Chicken": {
+            "GrassEatAmount": 0
+        },
+        "Brown Chicken": {
+            "GrassEatAmount": 0
+        },
+        "Blue Chicken": {
+            "GrassEatAmount": 0
+        },
+        "Void Chicken": {
+            "GrassEatAmount": 0
+        },
+        "Golden Chicken": {
+            "GrassEatAmount": 0
+        },
+        "Duck": {
+            "GrassEatAmount": 0
+        },
+        "Rabbit": {
+            "GrassEatAmount": 0
+        },
+        "Dinosaur": {
+            "GrassEatAmount": 0
+        },
+        "White Cow": {
+            "GrassEatAmount": 0
+        },
+        "Brown Cow": {
+            "GrassEatAmount": 0
+        },
+        "Goat": {
+            "GrassEatAmount": 0
+        },
+        "Sheep": {
+            "GrassEatAmount": 0
+        },
+        "Pig": {
+            "GrassEatAmount": 0
+        },
+        "Ostrich": {
+            "GrassEatAmount": 0
+        }
+      }
+    }
+  ]
+}
